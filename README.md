@@ -238,14 +238,17 @@ Vibe Coding Lab은 오픈소스 프로젝트입니다. 여러분의 기여를 �
 
 ## 📊 로드맵
 
-### ✅ Phase 1: 기반 구축 (진행 중)
+### ✅ Phase 1: 기반 구축 (완료)
 - [x] 프로젝트 계획 수립
 - [x] 메인 README 작성
-- [ ] 폴더 구조 생성
-- [ ] Level 1 모듈 작성
+- [x] 폴더 구조 생성
+- [x] 01-hello-vibe 모듈 완성
 
-### 🚧 Phase 2: Level 1 완성 (예정)
-- [ ] 3개 모듈 + 프로젝트
+### 🚧 Phase 2: Level 1 완성 (진행 중)
+- [x] 01-hello-vibe 모듈 완성
+- [x] 02-first-tdd 모듈 완성
+- [x] 03-ai-assistant 모듈 완성
+- [ ] project/ 종합 프로젝트
 - [ ] 문서화 완성
 - [ ] 초기 사용자 테스트
 
