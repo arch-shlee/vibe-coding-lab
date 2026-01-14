@@ -63,7 +63,8 @@
 파일명은 hello.py로 해줘.
 ```
 
-<!-- 📸 TODO: 스크린샷 추가 - first-vibe-request.png -->
+![첫 바이브 요청](images/first-vibe-request.png)
+<!-- 설명: AI에게 첫 요청을 보내는 화면 -->
 
 ### Step 3: AI 응답 이해하기
 
@@ -118,7 +119,7 @@ $ python hello.py
 Hello, Alice!
 ```
 
-<!-- 📸 TODO: 스크린샷 추가 - personalized-hello.png -->
+![인사말 개인화 결과](images/personalized-hello.png)
 
 ### 과제 2: 계산기 함수
 
