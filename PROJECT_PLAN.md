@@ -423,12 +423,12 @@ module-name/
 - [ ] checkpoints/ 파일 작성
 
 **우선순위 2: 나머지 모듈 작성**
-- [ ] 02-first-tdd 모듈 완성
-  - [ ] README.md (TDD 기본 개념)
-  - [ ] GUIDE.md (단계별 실습)
-  - [ ] starter/ 폴더
-  - [ ] solution/ 폴더
-  - [ ] checkpoints/
+- [x] 02-first-tdd 모듈 완성 ✅
+  - [x] README.md (TDD 기본 개념, Red-Green-Refactor)
+  - [x] GUIDE.md (단계별 실습, Part 1-6)
+  - [x] starter/ 폴더 (빈 템플릿)
+  - [x] solution/ 폴더 (완성 코드, 25개 테스트)
+  - [x] checkpoints/ (3단계 체크포인트)
 - [ ] 03-ai-assistant 모듈 완성
   - [ ] README.md (프롬프트 엔지니어링)
   - [ ] GUIDE.md
@@ -535,6 +535,6 @@ MIT License
 
 **작성일**: 2026-01-13
 **최종 수정**: 2026-01-13
-**버전**: 1.1
+**버전**: 1.2
 **작성자**: arch-shlee & Claude
-**상태**: Phase 1 완료, Phase 2 진행 예정
+**상태**: Phase 1 완료 ✅, Phase 2 진행 중 🚧 (02-first-tdd 완료)
