@@ -1,0 +1,12 @@
+# Red-Green-Refactor 실습 의존성
+
+# 테스트 프레임워크
+pytest>=7.4.0
+
+# 테스트 커버리지
+pytest-cov>=4.1.0
+
+# 코드 품질 도구 (선택사항)
+# pylint>=3.0.0
+# black>=23.0.0
+# mypy>=1.0.0

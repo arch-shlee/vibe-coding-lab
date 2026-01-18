@@ -252,9 +252,13 @@ Vibe Coding Lab은 오픈소스 프로젝트입니다. 여러분의 기여를 �
 - [x] 문서화 완성
 - [ ] 초기 사용자 테스트
 
-### 📅 Phase 3: Level 2-3 구축
-- [ ] 중급 모듈 작성
-- [ ] 고급 모듈 작성
+### 🚧 Phase 3: Level 2-3 구축 (진행 중)
+- [x] Level 2 구조 생성
+- [x] 01-red-green-refactor 모듈 (핵심 완성)
+- [ ] 02-single-agent 모듈
+- [ ] 03-prompt-engineering 모듈
+- [ ] Level 2 종합 프로젝트
+- [ ] Level 3 모듈 작성
 - [ ] 피드백 반영
 
 ### 🎯 Phase 4: Level 4 및 커뮤니티
